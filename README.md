@@ -12,7 +12,7 @@ Scope:
 
 Godaddy like registrar with...
 
-1. Homepage - Landing Page
+1. Homepage - Landing Page - DONE
 2. Login (Will be done with Flask, passwords logged in PostgresSQL)
 3. Internal Homepage (After logged in)
 4. Domain Registry (interface with Ethereum)
